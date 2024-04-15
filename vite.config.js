@@ -1,7 +1,6 @@
-import { defineConfig} from "vite";
- 
+import { defineConfig } from "vite";
 
- export default defineConfig({
-     base: "/CRUD/",
-     plugins:[],
- });
+export default defineConfig({
+  base: "/CRUD/",
+  plugins: [],
+});
